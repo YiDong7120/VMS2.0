@@ -1,5 +1,5 @@
-const {hash} = require("bcrypt");
-const bcrypt = require("bcryptjs");
+
+const bcrypt = require("bcryptjs/bcrypt");
 
 let users;
 
